@@ -1,0 +1,13 @@
+{
+  "name": "NodeRulesEngine",
+  "version": "0.0.0",
+  "description": "NodeRulesEngine",
+  "main": "app.js",
+  "author": {
+    "name": "Jeremy",
+    "email": ""
+  },
+  "dependencies": {
+    "requirefrom": "~0.1.0"
+  }
+}
